@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1WcFIewqerfffbNBve0h0cL/AAqO4Jv9GI9hh0ywMlAs7/bxbPpA4wlRqiraRVVt66eewYVbOliRgMOE9QJlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Minhaz\\Desktop\\Astha IT Projects\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Minhaz\\.nuget\\packages\\json.net\\1.0.23\\json.net.1.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

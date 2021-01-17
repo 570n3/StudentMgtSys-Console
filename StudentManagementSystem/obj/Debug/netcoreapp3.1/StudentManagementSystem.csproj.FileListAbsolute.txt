@@ -1,0 +1,13 @@
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.exe
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.deps.json
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.json
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.runtimeconfig.dev.json
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.dll
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.pdb
+C:\Users\Minhaz\Desktop\Astha IT Projects\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\netcoreapp3.1\StudentManagementSystem.genruntimeconfig.cache
